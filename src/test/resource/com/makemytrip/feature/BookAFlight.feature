@@ -25,4 +25,3 @@ Given User view the info of the selected flight
 When User click on radio button of selected flight
 And User click on Book button for booking the same flight
 Then User verifies the booking details
-
